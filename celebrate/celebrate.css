@@ -1,0 +1,149 @@
+
+#cele{
+    height: 600px;
+    width: 100%;
+    background-color: aliceblue;
+    display: grid;
+    grid-template-columns:1 ;
+    grid-template-rows: repeat(3,1fr) ;
+}
+.d1{
+    display: flex;
+    justify-content: center;
+  
+    font-weight:bolder ;
+}
+h1{
+    background-color: azure;
+    height: 60px;
+    width: 200px;
+    
+    text-align: center;
+    border-radius: 10%;
+justify-content: center;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.input-file{
+ height: 50px;
+ width: 100px;
+ border-radius: 10px;
+ background-color: #3a86ff;
+ color: white;
+ border-color: white;
+display: flex;
+justify-content: space-around;
+
+margin: 100px auto;
+}
+
+.d2{
+    display: flex;
+    justify-content: center;
+  
+}
+.d3{
+    display: flex;
+    justify-content: center;
+  
+}
+h1:hover{
+    background-color:white ;
+}
+.in{
+    display: none;
+}
+#set{
+    display: grid;
+    grid-template-columns:1 ;
+    grid-template-rows: repeat(5,1fr) ;
+ height: 700px;
+ font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display:none;
+  
+}
+.d9{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.d4{
+    display: flex;
+    justify-content: space-evenly;
+}
+.d5{
+    display: flex;
+    justify-content: space-evenly;
+}
+.d6{
+    display: flex;
+    margin-top: 100px;
+    justify-content: space-evenly;
+}
+.d7{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-evenly;
+}
+#prof{
+    width : 300px;
+    height: 300px;
+
+}
+#b1{
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+    background-color: #3a86ff;
+    color: white;
+    border-color: white;
+}
+#b2{
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+    background-color: #3a86ff;
+    color: white;
+    border-color: white;
+}
+#b3{
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+    background-color: #3a86ff;
+    color: white;
+    border-color: white;
+}
+#b4{
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+    background-color: #3a86ff;
+    color: white;
+    border-color: white;
+}
+#b5{
+    height: 50px;
+    width: 200px;
+    border-radius: 10px;
+    background-color: #3a86ff;
+    color: white;
+    border-color: white;
+}
+#b6{
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+    background-color: #3a86ff;
+    color: white;
+    border-color: white;
+}
+#b7{
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+    background-color: #3a86ff;
+    color: white;
+    border-color: white;
+}
